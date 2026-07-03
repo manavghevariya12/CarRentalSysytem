@@ -29,6 +29,4 @@ A simple console-based Car Rental System developed in Java using Object-Oriented
 4. Run the `CarRentalSystem` class.
 5. Follow the on-screen menu.
 
-## Author
-
 Manav Ghe
